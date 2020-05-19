@@ -1,0 +1,1 @@
+std::cout<<"nin"<<std::endl;
